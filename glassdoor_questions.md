@@ -1,6 +1,6 @@
 ### questions
 ### Algorithms
-* Binary Tree Traversal
+* **Binary Tree Traversal**
 * How would you handle processing large datasets in a  constrained environment?
 * Split array apart into two equal sums.  
 * read csv files, array operation  
