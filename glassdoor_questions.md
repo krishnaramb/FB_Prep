@@ -13,7 +13,7 @@
 * Simple comparison between numbers given constraints see how many comparisons are true.
 * Import a CSV / JSON file. If condition is met, print two attributes for that condition.
 * Add each number in an array until the sum equals the rest of the array
-* Their coding interview is not crazy, it is focussed on performance and efficiency (please be thorough with complexity analysis
+* Their coding interview is not crazy, it is focussed on **performance and efficiency** :sparkling_heart: (please be thorough with complexity analysis
 * With very little detailed information, how would you approach tackling a performance problem in a web application (i.e., step through your thought process of what steps you would take, information you would seek, etc.).
 * coding - counting things in a logfile, basic algorithms
 * Problem with many formulas to get speed of different animals based on the number of legs. Information comes from 2 different files. Process the info and display animals from fastest to slowest
@@ -22,19 +22,19 @@
   - page faults
   - incoming network packet
 ### System
-* Systems internals, vmstat, netcat, shell scripting  
+* Systems internals, **vmstat, netcat** :fire: :boom:, shell scripting  
 * If you're not a recent CS grad, the systems questions are probably going to end your interview- they basically expect that you've taken an Operating Systems course within the last few years
-* Given output of command vmstat and analyze the system.
+* Given output of command **vmstat and analyze the system** :fire: :punch: :revolving_hearts:
 * Send packets to remote machines and try to upgrade the packet remotely.
 * Troubleshooting why some of the machines are not updated.  
 * Know the kernel in incredible depth
-* "systems interview", but it's extremely low level. Swap management, server flags, process management. A recommendation for a book called "The Linux Programming Interface
+* "systems interview", but it's extremely low level. **Swap management, server flags, process management**.:hibiscus: A recommendation for a book called **"The Linux Programming Interface"**
   1. What part of the tcp header does traceroute modify?  
   2. How do you make a process a service?  
   3. What is a zombie process?  
   4. Something about the kernel. I don't recall details.
 * Linux kernel, Network deep dive, distributed system design  
-* What happens during the boot process from the moment you turn on the machine until you get a login prompt?
+* **What happens during the boot process from the moment you turn on the machine until you get a login prompt?**:four_leaf_clover:
 * Pick up a Linux Kernel book.... (own it.)........ and have an Overview of Performance related commands( Truth --- >> know each parameter( if it changes(increase/decrease) and how it affects performance( This is where i failed)
 * Study the Entire Linux kernel and Performance related commands for 10-15 days before the interview.
 * Try to understand how web farms(servers) are maintained.
